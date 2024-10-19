@@ -1,0 +1,27 @@
+Project Outline:
+
+Phase 1: 
+--- Set up the Data
+--- Collect and organize data.
+--- Download and parse data.
+--- Store data in a local ???? will think about it -> SQLite/MySQL database.
+
+==== COMPLETE THIS FIRST
+Phase 2: Basic Search Functionality
+--- Implement linear and binary search.
+--- Test the performance on your datasets.
+
+==== FAR AWAY RIGHT NOW
+Phase 3: Advanced Search Algorithms
+--- Implement Trie (Start cp plzzz) 
+--- Inverted Index + TF-IDF
+--- BM25 
+--- B-tree indexing
+
+---- Add a ranking mechanism to improve search relevance.
+??? dubious still need to think about it
+
+===== Later
+Phase 4: Benchmarking and Optimization
+---- Test all algorithms and compare performance.
+---- Fine-tuning the algorithm based on dataset size and user needs.
